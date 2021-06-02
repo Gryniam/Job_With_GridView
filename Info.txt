@@ -1,0 +1,5 @@
+Program for working with the list of students.
+Functional:
+- Add a student
+- Remove students
+- Sort students
